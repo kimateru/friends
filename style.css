@@ -4,3 +4,13 @@ body {
 h1 {
     color: white;
 }
+.text_area {
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+.text_area p{
+    font-size: 24px;
+    color: purple;
+}
